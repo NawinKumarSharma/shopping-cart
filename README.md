@@ -12,14 +12,14 @@ This is a simple shopping cart application built using React JS. It allows users
 ## Installation
 
 1. Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
-2. Clone this repository to your local machine using `git clone https://github.com/your-username/react-cart-app.git`.
+2. Clone this repository to your local machine using `git clone https://github.com/NawinKumarSharma/shopping-cart.`.
 3. Navigate to the project directory: `cd react-cart-app`.
 4. Install the required dependencies by running: `npm install`.
 
 ## Usage
 
 1. Start the development server by running: `npm start`.
-2. Open your web browser and go to `http://localhost:3000` to view the cart app.
+2. Open your web browser and go to `http://localhost:` to view the cart app.
 
 ## Structure
 
